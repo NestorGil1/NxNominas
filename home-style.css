@@ -1,0 +1,54 @@
+body{
+    background: lightblue;
+}
+
+#banner{
+    width: 100%
+}
+
+.main{
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+.titulo-principal {
+    padding-left: 30px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+p{
+    font-size: 17px; text-align: center;
+    background: #CCCCCC;
+}
+
+strong{
+    color: blue
+}
+
+#core{
+    font-size: 18px;
+}
+
+.diferencial{
+    background: #FFFFFF;
+    padding: 15px;
+}
+
+.items{
+    font-style: italic;
+}
+
+ol{
+    display: inline-block;
+    vertical-align: top;
+    width: 35%;
+    margin-right: 5%;
+}
+
+.imgdif{
+    width:45%;
+}
+
